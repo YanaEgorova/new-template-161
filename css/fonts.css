@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: 'Spartan';
+    src: url('../fonts/Spartan-Light.eot');
+    src: url('../fonts/Spartan-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Spartan-Light.woff2') format('woff2'),
+        url('../fonts/Spartan-Light.woff') format('woff'),
+        url('../fonts/Spartan-Light.ttf') format('truetype'),
+        url('../fonts/Spartan-Light.svg#Spartan-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../fonts/Lora-SemiBold.eot');
+    src: url('../fonts/Lora-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lora-SemiBold.woff2') format('woff2'),
+        url('../fonts/Lora-SemiBold.woff') format('woff'),
+        url('../fonts/Lora-SemiBold.ttf') format('truetype'),
+        url('../fonts/Lora-SemiBold.svg#Lora-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

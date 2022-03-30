@@ -1,0 +1,21 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #1a1a1a;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #bcc1bc;
+  --second-brand-color: #53539e;
+  --third-brand-color: #363636;
+
+
+  --main-font:  'Spartan';
+  --title-font:  'Lora';
+
+  font-size: 62.5%;
+}
