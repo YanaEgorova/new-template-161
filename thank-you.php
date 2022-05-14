@@ -119,6 +119,9 @@
                    <li class="footer__item">
                      <a href="./privacy.html" class="footer__link">Privacy Notice</a>
                     </li>
+                    <li class="footer__item">
+                      <a href="./cancellation.html" class="footer__link">Cancellation</a>
+                    </li>
                 </ul>
               </div>
               <div class="footer__block">
@@ -157,7 +160,7 @@
 
  
   <script type="module" src="./js/on-load.js"></script>
-  <script src="./js/website-data.js"></script>
+  <script type="module" src="./js/website-data.js"></script>
   <script>
     const menuBtn = document.querySelector('.js_menu-btn');
     const menu = document.querySelector('.js_menu');
