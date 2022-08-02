@@ -110,16 +110,12 @@
     width: 14rem;
     box-sizing: border-box;
 }
-.swiper__box .swiper__img {
-    display: none;
-}
+
 
 .swiper {
     padding-bottom: 8rem;
 }
-.swiper__img {
-    display: none;
-}
+
 .swiper-button-next::after,
 .swiper-button-prev::after {
    display: none;
@@ -148,11 +144,7 @@
 }
 @media screen and (min-width: 1440px) { 
 
-    .swiper__box .swiper__img {
-        display: block;
-        width: 50%;
-        max-width: 50%;
-    }
+  
     .swiper__box {
         display: flex;
         align-items: center;
