@@ -89,9 +89,10 @@ body.open-menu {
 }
 
 .cart__btn {
-    display: none;
+    display: flex;
     align-items: center;
     cursor: pointer;
+    margin-left: 1rem;
     transition: all 0.3s ease-in-out;
 }
 .cart__btn svg {
@@ -122,6 +123,12 @@ body.open-menu {
 .hero__wrapper-main .header__logo {
     color: var(--sub-text-color);
 }
+   .hero__wrapper-main .cart__btn svg {
+        fill: var(--sub-text-color);
+    } 
+    .hero__wrapper-main .cart__span {
+        color: var(--sub-text-color);
+    } 
 @media screen and (min-width: 1024px) {
     .cart__btn:hover {
         transform: scale(1.1);
@@ -150,10 +157,5 @@ body.open-menu {
     }
 
 
-    .hero__wrapper-main .cart__btn svg {
-        fill: var(--sub-text-color);
-    } 
-    .hero__wrapper-main .cart__span {
-        color: var(--sub-text-color);
-    } 
+ 
 }
