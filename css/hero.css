@@ -1,5 +1,5 @@
 body.dark .img {
-    filter: grayscale(1);
+    /* filter: grayscale(1); */
 }
 
 .hero__wrapper {
